@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-robot.o
-*.out
-*~
-=======
 # Prerequisites
 *.d
 
@@ -55,4 +50,4 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
->>>>>>> 283dfd1920e7cb39b5b8d8b995e6f750ec3d242a
+
